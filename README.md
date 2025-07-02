@@ -1,5 +1,3 @@
-# Pizza-Sales-SQL
-
 ## 🍕 Pizza Sales Analysis – SQL Project
 
 This repository contains the dataset for a SQL-based project aimed at analyzing pizza sales data. The purpose of this project is to perform data exploration and generate business insights using SQL queries.
